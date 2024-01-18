@@ -319,7 +319,7 @@ section#slides_parent {
 }
 
 .slide_1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/123/img/recipe_slides/recipe1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -344,27 +344,27 @@ section#slides_parent {
 }
 
 .slide_2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe2.jpg");
 }
 
 .slide_3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe3.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe3.jpg");
 }
 
 .slide_4 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe4.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe4.jpg");
 }
 
 .slide_5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe5.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe5.jpg");
 }
 
 .slide_6 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe6.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe6.jpg");
 }
 
 .slide_7 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/recipe_slides/recipe7.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/recipe_slides/recipe7.jpg");
 }
 
 .slide_info {
@@ -401,7 +401,7 @@ section#welcome_Sec p {
 /*explore sec*/
 
 #explore-fiji {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/explore-bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/img/explore-bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -766,7 +766,7 @@ input[type=submit]:hover {
 }
 
 #fiji-holyday {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("C:/Users/91635/OneDrive/Desktop/fsd final project/final/1233/img/holyday-bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/holyday-bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
